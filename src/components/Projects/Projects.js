@@ -41,7 +41,7 @@ const Projects = () => {
             <div className=" flex  text-black flex-wrap gap-2 ">
             {
                 project?.tools?.map((v)=> 
-                <h2 className='btn btn-sm hover:scale-90 btn-outline'>{v}</h2>
+                <h2 key={v} className='btn btn-sm hover:scale-90 btn-outline'>{v}</h2>
                 )
             }
             
