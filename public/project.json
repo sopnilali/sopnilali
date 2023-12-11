@@ -1,0 +1,75 @@
+[
+    {
+        "id": 26324721411563267387,
+        "name": "Pet Adoption",
+        "time": "(November 2023)",
+        "shortDescription": "ReactJS with Pet Adoption",
+        "description": [
+            "Imgbb for storing images, authentication, and real-time database, Mongodb store",
+            "tanstack react table using for my pet listing ",
+            "All data input and update form using formik",
+            "Payment system using Stripe "
+        ],
+        "image": "https://i.ibb.co/0VNk5wj/all-devices-black-1.png",
+        "tools": [
+            "MongoDB",
+            "Firebase Authentication",
+            "MongoDB",
+            "Firebase",
+            "Daisy UI",
+            "TailwindCSS"
+        ],
+        "githubFrontEnd": "https://github.com/amiadud/b8a12-client-side-csesopnil",
+        "githubBackEnd": "https://github.com/amiadud/b8a12-server-side-csesopnil",
+        "live": "https://my-pet-adoption.vercel.app/"
+    },
+    {
+        "id": 26324726585463267387,
+        "name": "Library Books",
+        "time": "(October 2023)",
+        "shortDescription": "ReactJS with Library Books",
+        "description": [
+            "I have created a filter button. Only available books (quantity > 0) will be shown.",
+            "Each separate category will show books. For example, if you click on Fantasy, you can see Fantasy books.",
+            "Click on read button to read that book. Also available for download if you wish to download.",
+            ""
+        ],
+        "image": "https://i.ibb.co/6bKw8t0/library-screenshot.png",
+        "tools": [
+            "MongoDB",
+            "Firebase Authentication",
+            "MongoDB",
+            "Firebase",
+            "Daisy UI",
+            "TailwindCSS",
+            "TwElements"
+        ],
+        "githubFrontEnd": "https://github.com/amiadud/b8a11-client-side-csesopnil",
+        "githubBackEnd": "https://github.com/amiadud/b8a11-server-side-csesopnil",
+        "live": "https://library-book-rho.vercel.app/"
+    },
+    {
+        "id": 2632472654740323267387,
+        "name": "MobileMaya BrandShop",
+        "time": "(October 2023)",
+        "shortDescription": "ReactJS with MobileMaya BrandShop",
+        "description": [
+            "You must login to view product details. ",
+            "Different products are added to the cart, the user based carts will be displayed. ",
+            "If you click on your favorite brand, you will see the products of that brand separately. "
+        ],
+        "image": "https://i.ibb.co/vxQL4qs/mobile-brand.png",
+        "tools": [
+            "MongoDB",
+            "Firebase Authentication",
+            "MongoDB",
+            "Firebase",
+            "Daisy UI",
+            "TailwindCSS",
+            "TwElements"
+        ],
+        "githubFrontEnd": "https://github.com/amiadud/b8a10-brandshop-client-side-csesopnil",
+        "githubBackEnd": "https://github.com/amiadud/b8a10-brandshop-server-side-csesopnil",
+        "live": "https://brandshop-mobilemaya.vercel.app/"
+    }
+]
