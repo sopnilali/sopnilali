@@ -132,9 +132,8 @@ function Navbar() {
           </Typography>
           <Box className='w-full text-center hidden md:block' >
             {pages.map((page) => (
-              <Link href={page.pathname} >
+              <Link key={page.route} href={page.pathname} >
                 <Button
-                  key={page.route}
                   sx={{
                     mx: 2,
                     my: 2,

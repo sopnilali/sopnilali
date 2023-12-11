@@ -29,7 +29,7 @@ const Projects = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {
             projectData.map(project => 
-        <div className=" w-full card  bg-base-100 shadow-xl ">
+        <div key={project.id} className=" w-full card  bg-base-100 shadow-xl ">
         <div className="card-body">
               <figure><img src={project.image} alt="Shoes" /></figure>
             <h2 className="card-title">
