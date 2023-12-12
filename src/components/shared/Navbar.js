@@ -14,14 +14,6 @@ import { Facebook, GitHub, LinkedIn } from '@mui/icons-material';
 
 const pages = [
     {
-        route: "Home",
-        pathname: "/",
-    },
-    {
-        route: "About",
-        pathname: "/#about",
-    },
-    {
         route: "Projects",
         pathname: "/#projects",
     },
@@ -30,13 +22,21 @@ const pages = [
       pathname: "/#education",
     },
     {
-      route: "Skill",
+      route: "Skills",
       pathname: "/#skill",
+    },
+    {
+      route: "Experience",
+      pathname: "/#experience",
     },
     {
       route: "About",
       pathname: "/#about",
     },
+    {
+      route: "Contact",
+      pathname: "/#contact",
+  },
 
 ];
 
@@ -116,7 +116,6 @@ function Navbar() {
             variant="h6"
             noWrap
             component="a"
-            href="/"
             sx={{
               mr: 2,
               display: { xs: 'flex', md: 'none' },

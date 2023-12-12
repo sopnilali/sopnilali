@@ -24,9 +24,11 @@ const Projects = () => {
 
     return (
         <section id='projects' className=''>
-        <div className= {`min-h-screen w-full py-32 bg-slate-700 bg-local  px-32`} >
+        <div
+        className= {`min-h-screen w-full py-24 bg-[url('https://i.ibb.co/5TXZCn6/ultra-technology.jpg')]  bg-fixed bg-no-repeat bg-cover  px-32`} >
         <SectionTitle  heading={"Projects"}/>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="divider "></div>
+        <div className="grid grid-cols-1 md:grid-cols-2 mt-14 lg:grid-cols-3 gap-6">
         {
             projectData.map(project => 
         <div key={project.id} className=" w-full card  bg-base-100 shadow-xl ">

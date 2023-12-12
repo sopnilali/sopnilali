@@ -34,13 +34,12 @@ const Education = () => {
     return (
         <section id='education'>
             
-        <div className="min-h-screen py-32 -mb-20  "
-        style={{backgroundImage: 'url(https://i.ibb.co/cDq3q9Y/education-concept.webp)',
-        backgroundSize: 'cover',
-        backgroundRepeat: 'no-repeat',
-    }}
+        <div 
+        
+        className="min-h-screen py-32 -mb-20 bg-[url('https://i.ibb.co/cDq3q9Y/education-concept.webp')]  bg-fixed bg-no-repeat bg-cover  "
         >
             <SectionTitle heading={'Education'}/>
+            <div className="divider "></div>
          <div className='flex justify-center items-center py-36'>
         <div>
              
@@ -55,7 +54,7 @@ const Education = () => {
                         <h3 className="font-semibold text-white">
                             {steps?.degree}
                         </h3>
-                        <h4 className="text-slate-600 drop-shadow-md">
+                        <h4 className="text-white drop-shadow-md">
                             {steps.subject}
                         </h4>
                         <h5 className="text-white">{steps.institute}</h5>
