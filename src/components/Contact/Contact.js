@@ -1,11 +1,29 @@
 "use client"
 
-import React from 'react';
+import React, { useRef } from 'react';
 import SectionTitle from '../SectionTitle/SectionTitle';
 import { IoIosMail } from "react-icons/io";
 import { FaHome } from "react-icons/fa";
+import emailjs from '@emailjs/browser';
 
 const Contact = () => {
+
+
+  const form = useRef();
+ 
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+  
+
+    emailjs.sendForm('service_p1e7bkr', 'template_paevl2w', form.current, 'yj4g_nphHV3pBNb95')
+      .then((result) => {
+        console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  };
+
     const ContactTextArea = ({ row, placeholder, name, defaultValue }) => {
         return (
           <>
@@ -131,7 +149,7 @@ const Contact = () => {
             </div>
             <div className="w-full px-4 lg:w-1/2 xl:w-5/12">
               <div className="relative rounded-lg bg-white p-8 shadow-lg dark:bg-dark-2 sm:p-12">
-                <form>
+                <form ref={form} onSubmit={sendEmail}>
                   <ContactInputBox
                     type="text"
                     name="name"
@@ -142,15 +160,10 @@ const Contact = () => {
                     name="email"
                     placeholder="Your Email"
                   />
-                  <ContactInputBox
-                    type="text"
-                    name="phone"
-                    placeholder="Your Phone"
-                  />
                   <ContactTextArea
                     row="6"
                     placeholder="Your Message"
-                    name="details"
+                    name="message"
                     defaultValue=""
                   />
                   <div>
