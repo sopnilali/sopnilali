@@ -69,7 +69,7 @@ function Navbar() {
               textDecoration: 'none',
             }}
           >
-            Abdul Adud
+            <Link href={'/'}>Abdul Adud</Link>
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
@@ -127,7 +127,7 @@ function Navbar() {
               textDecoration: 'none',
             }}
           >
-            Abdul Adud
+            <Link href={'/'}>Abdul Adud</Link>
           </Typography>
           <Box className='w-full text-center hidden md:block' >
             {pages.map((page) => (

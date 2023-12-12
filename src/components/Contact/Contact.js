@@ -42,7 +42,7 @@ const Contact = () => {
                 <SectionTitle className="text-black  " heading={'Contact'}/>
                 <div className="divider "></div>
 <section className="relative z-10  dark:bg-dark  lg:py-[120px] w-full min-h-screen mx-auto bg-slate-900/60 backdrop-blur-sm">
-        <div className="container mx-auto  ">
+        <div className="container mx-auto px-3 md:px-0  ">
           <div className="-mx-4  flex flex-wrap lg:justify-between">
             <div className="w-full px-4  lg:w-1/2 xl:w-6/12">
               <div className="mb-12 max-w-[570px] lg:mb-0">
