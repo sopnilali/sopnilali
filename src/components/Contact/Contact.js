@@ -160,6 +160,11 @@ const Contact = () => {
                     name="email"
                     placeholder="Your Email"
                   />
+                  <ContactInputBox
+                    type="text"
+                    name="subject"
+                    placeholder="Subject"
+                  />
                   <ContactTextArea
                     row="6"
                     placeholder="Your Message"
