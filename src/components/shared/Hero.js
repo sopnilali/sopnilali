@@ -22,7 +22,7 @@ className="  bg-[url('/hero.jpg')] bg-fixed bg-no-repeat bg-cover"
       <div className="grid items-center gap-12 lg:grid-cols-2">
         <div className="mt-12 lg:mt-0">
           <h1 className="mb-16 text-5xl text-white font-bold tracking-tight md:text-6xl xl:text-7xl">
-            Md. Abdul Adud <br /> <h2 className='text-3xl my-4 -mb-8'>Front-End Developer</h2>
+            Md. Abdul Adud <br /> <h2 className='text-3xl my-4 -mb-8'>React Front-End Developer</h2>
           </h1>
           <a className="mb-2 inline-block rounded bg-primary px-12 pt-4 pb-3.5 text-sm font-medium uppercase leading-normal text-white shadow-[0_4px_9px_-4px_#3b71ca] transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:bg-primary-600 focus:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] dark:shadow-[0_4px_9px_-4px_rgba(59,113,202,0.5)] dark:hover:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.2),0_4px_18px_0_rgba(59,113,202,0.1)] dark:focus:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.2),0_4px_18px_0_rgba(59,113,202,0.1)] dark:active:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.2),0_4px_18px_0_rgba(59,113,202,0.1)] md:mr-2 md:mb-0"
             data-te-ripple-init data-te-ripple-color="light" href="#contact" role="button">Hire Me</a>
