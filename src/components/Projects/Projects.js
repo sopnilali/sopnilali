@@ -38,7 +38,9 @@ const Projects = () => {
             {project.name}
             <div className="badge badge-secondary">NEW</div>
             </h2>
+            <h2><strong>Time: </strong>{project.time}</h2>
             <p>{project.description}</p>
+            
             <div className="card-actions justify-end">
             <div className=" flex  text-black flex-wrap gap-2 ">
             {
@@ -55,6 +57,7 @@ const Projects = () => {
         <Link className='text-gray-800  ' href={`${project?.githubFrontEnd}`}><FaGithub className='text-2xl' /></Link>
       <Link href={`${project?.githubBackEnd}`}><FaServer /></Link>
       <Link  href={`${project?.live}`}><FaExternalLinkAlt /></Link>
+      
       </div>
       </div>
     </div>

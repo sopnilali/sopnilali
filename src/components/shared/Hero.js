@@ -30,7 +30,7 @@ className="  bg-[url('/hero.jpg')] bg-fixed bg-no-repeat bg-cover"
 <Link 
 className='btn bg-red-600 rounded-md rounded-tl-2xl hover:bg-red-800 outline-none border-none text-white rounded-br-2xl'
 
-href={'https://drive.google.com/uc?export=download&id=14WKCsEkEPn25KSbGMt47ojDQvtZ5BwHb'}>Download Resume</Link>
+href={'https://drive.google.com/uc?export=download&id=1jSi87WlPbI0zkfuxcqnexH3eRSWwDstC'}>Download Resume</Link>
         </div>
         <div className="mb-12 lg:mb-0 flex justify-center items-center">
             <Image src={heroImg} className='md:w-80 hover:scale-90 transition-all my-10 rounded-lg shadow-xl  dark:shadow-black/20' />
