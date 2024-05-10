@@ -14,7 +14,7 @@ const About = () => {
         I'am Md. Abdul Adud. I am from Rajshahi, Bangladesh. I have completed my Bsc graduation in CSE from Varendra University.
         </h2>
         <h2 className='text-justify text-2xl text-white mt-10'>
-        I have been very passionate about computers, programming since my university life. I have 2 month of experience in Web Development as a front-end developer. Knowledge of NodeJS, ReactJS, and MongoDB.
+        I have been very passionate about computers, programming since my university life. I have 1 years of experience in Web Development as a front-end developer. Knowledge of NodeJS, ReactJS, and MongoDB.
         </h2>
         </div>
 
