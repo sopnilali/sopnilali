@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<div align="center">
+<img src="./images/github-banner.png" />
+</div>
 
-First, run the development server:
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/cse.wadud" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/8801737055870" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
+  </a>
+  <a href="mdabduladud8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h1 align="center">Hey there 👋</h1>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 👩‍💻About me
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# 🎯 Overview
+ * 🌱 I’m exploring - Front End Development
+ * 💬 Ask me about - Anything related that front end development, I am always keep up for tech.
+ * ⚡ Fun fact - I love to make complex origami and I can speak three languages
+ * 🤔 I'm trying - To learn data structure and many algorithms
+ * 🤝 I’m looking for help with my some project
+ # ⭐ Reach me
 
-## Learn More
+ 
+<div align="center">
 
-To learn more about Next.js, take a look at the following resources:
+<a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+</div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+ # 💻 My Skill
+<div align="center">
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,tailwind,nodejs,mongo,react,express,wordpress,vscode" />
+
+</div>
+
+# 🔥 My Github Activity Streak
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sopnilali&theme=merko&hide_border=true)" />
+
+# 📚 My Github Profile Stats 
+<div align="center">
+
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sopnilali&theme=dracula" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sopnilali&theme=dracula" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sopnilali&theme=radical" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sopnilali&theme=dracula&utcOffset=8" />
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sopnilali&theme=radical" />
+</div>
+
+</div>
