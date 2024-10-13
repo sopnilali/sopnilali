@@ -1,10 +1,10 @@
 
 <div align="center">
-<img src="./images/github-banner.png" />
+<img src="./public/img/banner.png" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/amiabduladud/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/cse.wadud" target="_blank">
@@ -35,7 +35,7 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
+<a href="https://www.linkedin.com/in/amiabduladud/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
 
 </div>
 
