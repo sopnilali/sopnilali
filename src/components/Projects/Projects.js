@@ -36,7 +36,7 @@ const Projects = () => {
               <figure><img src={project.image} alt="Shoes" /></figure>
             <h2 className="card-title">
             {project.name}
-            <div className="badge badge-secondary">NEW</div>
+            {project?.status === true ? <div className="badge badge-secondary">NEW</div> : <div className=" bg-slate-500 text-white rounded-md px-4 badge-md">Old</div>}
             </h2>
             <h2><strong>Time: </strong>{project.time}</h2>
             <p>{project.description}</p>
@@ -54,9 +54,9 @@ const Projects = () => {
             <div >
       <div className='flex justify-between '>
       <div className='flex items-center text-xl gap-4'>
-        <Link className='text-gray-800  ' href={`${project?.githubFrontEnd}`}><FaGithub className='text-2xl' /></Link>
-      <Link href={`${project?.githubBackEnd}`}><FaServer /></Link>
-      <Link  href={`${project?.live}`}><FaExternalLinkAlt /></Link>
+        {project?.githubFrontEnd ? <Link className='text-gray-800  ' href={`${project?.githubFrontEnd}`}><FaGithub className='text-2xl' /></Link> : ""}
+      { project?.githubBackEnd ? <Link href={`${project?.githubBackEnd}`}><FaServer /></Link> : ""}
+      {project?.live ? <Link  href={`${project?.live}`}><FaExternalLinkAlt /></Link> : ""}
       
       </div>
       </div>

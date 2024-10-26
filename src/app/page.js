@@ -9,10 +9,10 @@ import Contact from '@/components/Contact/Contact';
 import Experience from '@/components/Experience/Experience';
 
 export const metadata = {
-  title : "Abdul Adud",
+  title: "Abdul Adud",
   description: "I am web front end developer. ",
   keywords: 'mongodb, reactjs, firebase, tailwind css'
-  
+
 }
 
 const HomePage = () => {
@@ -20,13 +20,13 @@ const HomePage = () => {
 
   return (
     <div >
-    <HeroSection />
-    <Projects/>
-    <Education/>
-    <Skill/>
-    <Experience/>
-    <About/>
-    <Contact/>
+      <HeroSection />
+      <Projects />
+      <Education />
+      <Skill />
+      <Experience />
+      <About />
+      <Contact />
     </div>
   );
 };
