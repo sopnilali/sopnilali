@@ -135,5 +135,25 @@
         ],
         "githubFrontEnd": "https://github.com/sopnilali/petadaption-B10",
         "live": "https://sopnilali.github.io/petadaption-B10/"
+    },
+    {
+        "id": 26324789562952990259267392,
+        "name": "Ultimate Dream 11 Cricket Team",
+        "time": "(October 2024)",
+        "status": true,
+        "shortDescription": "ReactJS with Path to Adoption 2.0",
+        "description": [
+            "Clicking 'Choose Player' checks if the user has enough coins; if not, show an alert; otherwise, add the player. ",
+            " Place two buttons ('Available' and 'Selected') at the top-right corner of the section, with 'Selected' showing the count of chosen players (starting at 0)."
+        ],
+        "image": "https://i.imghippo.com/files/tt2199E.png",
+        "tools": [
+            "TailwindCSS",
+            "ReactJS",
+            "Fake JSON",
+            "DaisyUI"
+        ],
+        "githubFrontEnd": "https://github.com/sopnilali/Dream-11-Cricket-Team",
+        "live": "https://dream-11-cricket-team.vercel.app/"
     }
 ]
