@@ -25,7 +25,7 @@
 With a strong foundation in both frontend and backend development, I specialize in creating responsive, user-friendly applications. My experience spans across various technologies including React, Node.js, Redux, Next.js, Tailwind CSS and modern web frameworks. I'm committed to writing clean, maintainable code and following best practices in software development.
 
 # 🎯 Overview
- * 🌱 I’m exploring - Front End Development
+ * 🌱 I’m exploring - Full Stack Web Development
  * 💬 Ask me about - Anything related that front end development, I am always keep up for tech.
  * ⚡ Fun fact - I love to make complex origami and I can speak three languages
  * 🤔 I'm trying - To learn data structure and many algorithms
