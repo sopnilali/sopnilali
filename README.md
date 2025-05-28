@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amiabduladud/" target="_blank">
+  <a href="https://www.linkedin.com/in/ami-abdul-adud/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/cse.wadud" target="_blank">
@@ -22,7 +22,7 @@
 
 # 👩‍💻About me
 
-I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
+With a strong foundation in both frontend and backend development, I specialize in creating responsive, user-friendly applications. My experience spans across various technologies including React, Node.js, Redux, Next.js, Tailwind CSS and modern web frameworks. I'm committed to writing clean, maintainable code and following best practices in software development.
 
 # 🎯 Overview
  * 🌱 I’m exploring - Front End Development
@@ -35,7 +35,9 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amiabduladud/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
+<a href="https://www.linkedin.com/in/ami-abdul-adud/"> <img width="50px" src="https://github.com/CLorant/readme-social-icons/raw/main/large/colored/linkedin.svg" /> <a/>
+<a href="https://www.facebook.com/cse.wadud"> <img width="50px" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg" /> <a/>
+<a href="https://discord.gg/U8qCdV5ukC"> <img width="50px" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/discord.svg" /> <a/>
 
 </div>
 
@@ -44,7 +46,7 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
  # 💻 My Skill
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,tailwind,nodejs,mongo,react,express,wordpress,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,tailwind,nodejs,mongo,react,express,wordpress,vscode,redux,postgres" />
 
 </div>
 
